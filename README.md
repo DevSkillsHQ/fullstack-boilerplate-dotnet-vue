@@ -1,11 +1,11 @@
-# Fullstack Boilerplate (Angular/Dotnet)
+# Fullstack Boilerplate (Vue/Dotnet)
 
 A backbone for your coding challenge.
 
 ## Contents
 
 - [Backend service](app-backend) - a .NET service with a `/ping` endpoint. Extend with your code.
-- [Frontend app](app-frontend) - an Angular app. Extend with your code.
+- [Frontend app](app-frontend) - an Vue app. Extend with your code.
 - [E2E test suites](cypress/e2e) - a backend and a frontend Cypress test suites. Extend with your tests.
 
 ## Tech Stack
@@ -16,12 +16,12 @@ A backbone for your coding challenge.
 
 ### Frontend
 
-- Angular
-- Typescript
+- Vue 3
+- Vite
 
 #### Additional libs
 
-- Karma/Jasmine (testing)
+- Vitest (testing)
 
 ### Misc
 
